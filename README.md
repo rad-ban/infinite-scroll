@@ -1,4 +1,4 @@
-# infinite-scroll
+# Javascript infinite Sscroll
 Javascript infinite scroll images with unsplash API
 
 ## Project uses Unsplash API
